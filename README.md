@@ -1,2 +1,2 @@
-# backend-turma-a-2025
-Estudo sobre backend turma A ano de 2025
+# backend-turma-A-2025
+Estudo sobre backend turma a ano de 2025
